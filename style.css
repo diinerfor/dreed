@@ -1,0 +1,46 @@
+.conteiner{
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+.header-top{
+    background-image: url(mpJ88c2lZrA\ 1.png);
+    display: flex;
+}
+.heaber-row{display: flex;}
+.hrad-r{display: flex;}
+.site-header{display: flex;}
+html{
+    background-color: rgb(142, 103, 103);
+}
+.header-2{
+    display: flex;
+}
+
+
+.conteiner {
+    max-width: 877px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.nav-button{
+    padding: 0;
+border: none;
+background: none;
+}
+.link {
+    text-decoration: none;
+  }
+.go-top{
+    position: fixed;
+    left: 10px;
+    top: 97%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    cursor: pointer;
+    padding: 10px 15px;
+    padding: 0;
+border-radius: 10px;
+background-color: brown;
+}
